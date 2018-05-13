@@ -34,6 +34,8 @@ Example output:
 
 ![exampleoutput](https://github.com/nvchung599/ThermalStackFEA/blob/master/exampleoutput.PNG)
 
+![exampleoutput](https://github.com/nvchung599/ThermalStackFEA/blob/master/marching.gif)
+
 ## Tips
 
 * Convective heat transfer can be approximated as conduction into a
